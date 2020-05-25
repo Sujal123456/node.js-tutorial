@@ -1,13 +1,4 @@
-//arrow function
-var name = "Sujal";
-var users = function() {
-    console.log("This is an arrow function");
-}
-
-var users = () =>
-    console.log("This is an arrow function");
-
-e
-
-
-users();
+const a = 10;
+const b = 90;
+c = a + b;
+console.log("Total of a plus b=" + c)
